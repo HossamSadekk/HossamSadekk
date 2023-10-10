@@ -7,8 +7,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CS student.
-- 🌱 I’m currently Working on Android development and Learning Flutter.
+- 👨🏽‍💻 I’m currently a CS grad.
+- 🌱 I’m currently Working on Android development and Learning Spring boot.
 - 📫 Email me at [hosssamsadek@gmail.com](mailto:hosssamsadek@gmail.com).
 
 
